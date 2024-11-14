@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "CHHTRQD",
+        "joblib",
+        "pyexpat"
+    ],
+    "python.analysis.extraPaths": [
+        "./src"
+    ]
+}
